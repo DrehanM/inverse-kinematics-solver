@@ -1,0 +1,41 @@
+:Author: drehanm
+:Email: {dre@berkeley.edu}
+:Date: 01/01/2021
+:Revision: version#
+:License: Public Domain
+
+= Project: Inverse Kinematics Solver Library for Braccio Arm
+
+== Step 1: Installation
+
+Import as Library for your Braccio Arduino project
+
+== Step 2: Assemble the Braccio arm
+
+Follow the guide included with the kit.
+
+== Step 3: Load the code
+
+Call the public functions to solve for joint angles of Braccio arm given Cartesian coordinates.
+
+=== License
+This project is currently not released under a license.
+
+=== Contributing
+To contribute to this project please contact me at https://id.arduino.cc/dremaha
+
+=== BOM
+Add the bill of the materials you need for this project.
+
+|===
+| ID | Part name      | Part number | Quantity
+| R1 | 10k Resistor   | 1234-abcd   | 10
+| L1 | Red LED        | 2345-asdf   | 5
+| A1 | Arduino Zero   | ABX00066    | 1
+|===
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents.
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
