@@ -1,6 +1,6 @@
 /*
-  Morse.h - Library for flashing Morse code.
-  Created by David A. Mellis, November 2, 2007.
+  InverseKinematicsSolver.h - Library for translating cartesian coordinates to joint angles.
+  Created by Dre Mahaarachchi, January 1, 2020.
   Released into the public domain.
 */
 
